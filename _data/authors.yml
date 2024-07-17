@@ -2,8 +2,8 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name: Hyeonjin Kim        
+  email: rlaguswls186790@yonsei.ac.kr           
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -26,9 +26,9 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
-    github:          <username>
-    # email:           <mail@domain.tld>
+    #twitter:         <username>
+    github:          hyeongene
+    email: rlaguswls186790@yonsei.ac.kr
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -77,6 +77,6 @@ author2:
 
     Open `_data/authors.yml` to edit this text.
 
-  picture:           https://placehold.it/128x128
-  twitter:           <username>
-  github:            <username>
+  picture:           "C:/Users/user/Desktop/blog_hj/hyeongene.github.io/android-chrome-192x192.png"
+  email:             rlaguswls186790@yonsei.ac.kr
+  github:            hyeongene
