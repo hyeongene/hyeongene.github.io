@@ -31,7 +31,7 @@ description:           >
 tagline: 
 
 # A list of keywords for your blog
-keywords:              [Graph, Time Series]
+keywords:              [Computer Vision, Graph]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -56,8 +56,6 @@ menu:
     url:               /Computer Vision/
   - title:             Graph
     url:               /Graph/
-  - title:             Time Series
-    url:               /Time Series/
   - title:             Project
     url:               /Project/
 
