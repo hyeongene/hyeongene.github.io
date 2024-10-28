@@ -3,7 +3,10 @@ layout: post
 published: true
 title:  "[Paper Review]U-Net: Convolutional Networks for Biomedical Image Segmentation"
 date:   2024-08-14 16:10:12 +0900
-categories: Computer Vision
+categories:
+    - computervision
+description: >
+    'U-Net 논문 리뷰'
 ---
 ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7362d1f8-12cf-44ce-9c42-854ee11e25c9/4877ec0b-c235-4809-a13f-d5a8d252d0a0/image.png)
 

@@ -48,16 +48,12 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Seminar
-    url:               /Seminar/
   - title:             Natural Language Processing
-    url:               /Natural Language Processing/
+    url:               /naturallanguageprocessing/
   - title:             Computer Vision
-    url:               /Computer Vision/
+    url:               /computervision/
   - title:             Graph
-    url:               /Graph/
-  - title:             Project
-    url:               /Project/
+    url:               /graph/
 
 
 # Add links to the footer.
